@@ -1,0 +1,8 @@
+name: Custom-Scoreboard
+version: 1.0-SNAPSHOT
+main: me.legadyn.customboard.Main
+
+commands:
+  customboard:
+    description: customboard
+    usage: /<command> [start|stop|settimer|limit|settitle|setline|countdown|show]
